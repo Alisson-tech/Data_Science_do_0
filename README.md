@@ -1,7 +1,7 @@
 # Data Science do Zero - Noções Fundamentais com Python
 Repositório com os códigos da 2º edição do livro "Data Science do Zero - Noções Fundamentais com Python".
 
-![img](https://github.com/Alisson-tech/Data_Science_do_0/blob/master/imagens_Readme/Livro.PNG)
+![img](https://github.com/Alisson-tech/Data_Science_do_0/blob/master/imagens_Readme/Livro.png)
 
 # Livro
 
